@@ -17,11 +17,11 @@ tracks:
     name: upstream
     patches: null
     release_inc: '0'
-    release_repo_url: git@github.com:ros2-gbp/teleop_twist_joy-release
+    release_repo_url: git@github.com:lennonwoo/teleop_twist_joy-release
     release_tag: 2.0.0
     ros_distro: ardent
     vcs_type: git
-    vcs_uri: https://github.com/ros2/teleop_twist_joy.git
+    vcs_uri: https://github.com/lennonwoo/teleop_twist_joy.git
     version: :{auto}
   bouncy:
     actions:
@@ -41,11 +41,11 @@ tracks:
     name: upstream
     patches: null
     release_inc: '0'
-    release_repo_url: git@github.com:ros2-gbp/teleop_twist_joy-release
+    release_repo_url: git@github.com:lennonwoo/teleop_twist_joy-release
     release_tag: 2.1.0
     ros_distro: bouncy
     vcs_type: git
-    vcs_uri: https://github.com/ros2/teleop_twist_joy.git
+    vcs_uri: https://github.com/lennonwoo/teleop_twist_joy.git
     version: :{auto}
   crystal:
     actions:
@@ -65,11 +65,11 @@ tracks:
     name: upstream
     patches: null
     release_inc: '0'
-    release_repo_url: git@github.com:ros2-gbp/teleop_twist_joy-release
+    release_repo_url: git@github.com:lennonwoo/teleop_twist_joy-release
     release_tag: :{version}
     ros_distro: crystal
     vcs_type: git
-    vcs_uri: https://github.com/ros2/teleop_twist_joy.git
+    vcs_uri: https://github.com/lennonwoo/teleop_twist_joy.git
     version: :{auto}
   dashing:
     actions:
@@ -89,7 +89,7 @@ tracks:
     name: teleop_twist_joy
     patches: null
     release_inc: '1'
-    release_repo_url: https://github.com/ros2-gbp/teleop_twist_joy-release.git
+    release_repo_url: https://github.com/lennonwoo/teleop_twist_joy-release.git
     release_tag: :{version}
     ros_distro: dashing
     vcs_type: git
@@ -117,7 +117,7 @@ tracks:
     release_tag: release-beta2
     ros_distro: r2b2
     vcs_type: git
-    vcs_uri: https://github.com/ros2/teleop_twist_joy.git
+    vcs_uri: https://github.com/lennonwoo/teleop_twist_joy.git
     version: :{auto}
   r2b3:
     actions:
@@ -137,9 +137,9 @@ tracks:
     name: upstream
     patches: null
     release_inc: '4'
-    release_repo_url: git@github.com:ros2-gbp/teleop_twist_joy-release
+    release_repo_url: git@github.com:lennonwoo/teleop_twist_joy-release
     release_tag: release-beta3
     ros_distro: r2b3
     vcs_type: git
-    vcs_uri: https://github.com/ros2/teleop_twist_joy.git
+    vcs_uri: https://github.com/lennonwoo/teleop_twist_joy.git
     version: :{auto}
